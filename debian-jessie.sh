@@ -21,3 +21,4 @@ sudo apt-get update
 
 sudo apt-get -y install docker-engine
 
+sudo systemctl enable docker
