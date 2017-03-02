@@ -4,3 +4,5 @@ Currently supported:
 	  Debian Jessie
 
 You will need to have git already installed.
+
+git clone https://github.com/nelsonov/linux-distros-docker-install.git
