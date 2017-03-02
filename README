@@ -1,0 +1,6 @@
+Scripts to set up docker on various Linux distributions
+
+Currently supported:
+	  Debian Jessie
+
+You will need to have git already installed.
